@@ -11,6 +11,6 @@ public class button extends JButton{
         this.setFocusable(false);
         this.setFont(new Font("Comic Sans",Font.BOLD,30));
         this.setBackground(Color.black);
-        this.setForeground(Color.ORANGE);
+        this.setForeground(Color.RED);
     }
 }
